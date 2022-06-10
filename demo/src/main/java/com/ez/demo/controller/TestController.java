@@ -1,9 +1,9 @@
 package com.ez.demo.controller;
 
-public class TestController {
+import org.springframework.stereotype.Controller;
 
 	public void test() {
-		System.out.println("hello by chief");
+		System.out.println("test by hong hello by chief");
 		System.out.println("hi!");
+
 	}
-}
